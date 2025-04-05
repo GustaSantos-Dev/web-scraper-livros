@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from ydata_profiling import ProfileReport
+from ydata_profiling import ProfileReport  # Atualização da importação
 from datetime import datetime
 import schedule
 import time
@@ -114,3 +114,4 @@ print("⏳ Sistema de scraping agendado. Pressione Ctrl+C para parar.")
 while True:
     schedule.run_pending()
     time.sleep(60)
+
