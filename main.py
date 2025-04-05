@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from ydata_profiling import ProfileReport
+from pandas_profiling import ProfileReport
 from datetime import datetime
 import schedule
 import time
