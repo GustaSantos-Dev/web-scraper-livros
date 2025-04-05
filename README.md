@@ -19,7 +19,7 @@ Este projeto é um **Web Scraper automatizado** que coleta dados de livros da ca
 - [Seaborn + Matplotlib](https://seaborn.pydata.org/)
 - [YData Profiling](https://docs.ydata.ai/docs/profiling)
 - [Schedule](https://schedule.readthedocs.io/en/stable/)
-- Replit (ambiente de desenvolvimento online)
+- VSCode
 
 ---
 
